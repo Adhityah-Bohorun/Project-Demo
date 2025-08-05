@@ -1,4 +1,4 @@
 # Project-Demo
 This is my first Git Repository.
 <br>
-Author - Adhityah Bohorun
+Author - Adhityah Bohorun (Web Developer)
